@@ -46,3 +46,5 @@ Jupyter Notebook – Development environment
 
 # output :
 
+![Image](https://github.com/user-attachments/assets/e241c2bc-4108-40bd-ab99-f17401ea2ced)
+![Image](https://github.com/user-attachments/assets/5a44c82a-289f-4bed-9b1d-ac94a5cf549a)
